@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><permutations>
+<permutation name="A054B2CF778E2AC2A43A8FD28335DF4D">
+<mobile.user.agent>not_mobile</mobile.user.agent>
+<user.agent>ie9</user.agent>
+</permutation>
+<permutation name="85C24E6564433F3C5D1A764CA8F4E5DE">
+<user.agent>ie8</user.agent>
+<mobile.user.agent>not_mobile</mobile.user.agent>
+</permutation>
+<permutation name="D6A46A3CBE3AF4D862E0B0AFB6997263">
+<user.agent>gecko1_8</user.agent>
+<mobile.user.agent>not_mobile</mobile.user.agent>
+</permutation>
+<permutation name="C4D5BD8A422DBBF6187512C6A0451557">
+<mobile.user.agent>not_mobile</mobile.user.agent>
+<user.agent>opera</user.agent>
+</permutation>
+<permutation name="955C36D89BBA05136482E193DBBAAAF0">
+<mobile.user.agent>mobilesafari</mobile.user.agent>
+<user.agent>safari</user.agent>
+</permutation>
+<permutation name="2A96CD3D2A3AC7E3AABA40877578D69A">
+<user.agent>safari</user.agent>
+<mobile.user.agent>not_mobile</mobile.user.agent>
+</permutation>
+</permutations>

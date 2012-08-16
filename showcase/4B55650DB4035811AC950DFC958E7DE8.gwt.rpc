@@ -1,0 +1,17 @@
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+com.googlecode.mgwt.examples.showcase.client.MySQLService, false, false, false, false, _, 722561420
+com.lazias.mgwt.datatypes.ArticleOverview, true, true, true, true, com.lazias.mgwt.datatypes.ArticleOverview/214935056, 214935056
+[Lcom.lazias.mgwt.datatypes.ArticleOverview;, true, true, false, false, [Lcom.lazias.mgwt.datatypes.ArticleOverview;/3015270566, 3015270566
+com.lazias.mgwt.datatypes.GroupedArticles, true, true, false, false, com.lazias.mgwt.datatypes.GroupedArticles/1877966097, 1877966097
+[Lcom.lazias.mgwt.datatypes.GroupedArticles;, true, true, false, false, [Lcom.lazias.mgwt.datatypes.GroupedArticles;/4200720209, 4200720209
+com.lazias.mgwt.datatypes.SimpleEvents, false, false, true, true, com.lazias.mgwt.datatypes.SimpleEvents/3891578711, 3891578711
+java.lang.Boolean, true, true, true, true, java.lang.Boolean/476441737, 476441737
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.Integer, true, true, false, false, java.lang.Integer/3438268394, 3438268394
+java.lang.Number, true, false, false, false, java.lang.Number/300033342, 300033342
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+[Ljava.lang.String;, true, true, false, false, [Ljava.lang.String;/2600011424, 2600011424
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
